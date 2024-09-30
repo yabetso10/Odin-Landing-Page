@@ -6,6 +6,9 @@
 
 header {
     background-color: #1F2937;
+    display: flex;
+    padding: 10px;
+    gap: 25px;
 }
 
 .header-logo {
@@ -16,6 +19,7 @@ header {
 .header-links {
     font-size: 18px;
     color: #6d747d;
+    align-items: flex-end;
 }
 
 ul {
